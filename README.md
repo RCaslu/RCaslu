@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rafael-henry-b25578257/](https://www.linkedin.com/in/rafael-henry-b25578257/)
 
-- 💬 Ask me about **python, java, c, c#** and anything else
+- 💬 Ask me about my projects or your personal doubts, i´ll be glad to help
 
 - 📫 How to reach me **rafaelhenrycassiano23@gmail.com**
 
