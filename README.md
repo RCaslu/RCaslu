@@ -5,7 +5,7 @@
 
 ## 💻 A passionate Full Stack Developer from Brazil
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RCaslu](https://github.com/RCaslu)
 
